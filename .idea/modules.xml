@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hzm-api-gateway/hzm-api-gateway.iml" filepath="$PROJECT_DIR$/hzm-api-gateway/hzm-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-config-server/hzm-config-server.iml" filepath="$PROJECT_DIR$/hzm-config-server/hzm-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-customer-api-service/hzm-customer-api-service.iml" filepath="$PROJECT_DIR$/hzm-customer-api-service/hzm-customer-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-customer-service/hzm-customer-service.iml" filepath="$PROJECT_DIR$/hzm-customer-service/hzm-customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-customer-web/hzm-customer-web.iml" filepath="$PROJECT_DIR$/hzm-customer-web/hzm-customer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-eureka-server/hzm-eureka-server.iml" filepath="$PROJECT_DIR$/hzm-eureka-server/hzm-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-hystrix-dashboard/hzm-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hzm-hystrix-dashboard/hzm-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud.iml" filepath="$PROJECT_DIR$/spring_cloud.iml" />
+    </modules>
+  </component>
+</project>

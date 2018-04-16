@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config-repo/customer-service-dev.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-repo/customer-service-prod.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-repo/customer-service-test.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-repo/customer-service.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-api-service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-service/src/main/java/hzm/customer/service/controller/CustomerController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-service/src/main/resources/mapper/CustomerMapper.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-web" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-web/src/main/resources/static/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-web/src/main/resources/static/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-web/src/main/resources/static/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-web/src/main/resources/templates/cardid.ftl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-customer-web/src/main/resources/templates/index.ftl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzm-hystrix-dashboard" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
